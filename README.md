@@ -142,6 +142,6 @@ npm run serve // 启动前台项目
 ```js
 npm install // 安装依赖
 
-npm run serve // 启动后台管理项目
+npm run serve // 启动后台管理
 ```
-
+---------
